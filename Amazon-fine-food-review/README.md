@@ -1,2 +1,2 @@
-# Machine_Learning_Projects
-This repository contains self made ML projects based on some Kaggle Problem statements
+# Amazon fine food review
+This folder contains projects done on the sentiment analysis of Amazon fine food review dataset from kaggle
