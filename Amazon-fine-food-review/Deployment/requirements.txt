@@ -1,5 +1,5 @@
 # api
-flask==1.1.2
+flask==2.3.2
 
 # schema validation
 marshmallow==3.10.0
